@@ -1,0 +1,1 @@
+y_pred = pipeline.predict(X_test)
